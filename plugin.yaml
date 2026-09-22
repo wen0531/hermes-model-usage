@@ -1,0 +1,5 @@
+name: model-usage
+version: 0.1.0
+description: "状态栏显示当前模型与各订阅 provider 的实时用量（5小时/周窗口、余额）；适配器式开放接口，丢文件即扩展。"
+author: "Wen + Hermes"
+kind: standalone
